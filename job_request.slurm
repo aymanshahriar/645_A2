@@ -15,5 +15,5 @@
 source ~/software/init-conda
 conda activate pytorch
 
-python different_img_model.py > different_img_model.txt 2>&1  # Redirect both stdout and stderr
-#python3 -u different_img_model.py
+python model.py > output.txt 2>&1  # Redirect both stdout and stderr
+
