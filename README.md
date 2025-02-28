@@ -1,6 +1,6 @@
 # 645 Assignment 2
 
-Team Members: Team members: Ayman Shahriar, Jae Kang, Xin Wang, Harmandeep Singh Teja
+Team members: Ayman Shahriar, Jae Kang, Xin Wang, Harmandeep Singh Teja
 
 ## Deliverables:
 - The code for training, testing and evaluating the model is located in model.py
