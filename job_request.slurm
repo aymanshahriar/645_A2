@@ -15,5 +15,5 @@
 source ~/software/init-conda
 conda activate pytorch
 
-python model.py > output.txt 2>&1  # Redirect both stdout and stderr
+python model_code.py > output.txt 2>&1  # Redirect both stdout and stderr
 
